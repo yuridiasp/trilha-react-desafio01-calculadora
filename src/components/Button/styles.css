@@ -1,0 +1,17 @@
+.button-container {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.button-container:hover {
+    background-color: #570c0c;
+}
+
+.button-container:active {
+    background-color: #2e0606;
+}
