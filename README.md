@@ -26,7 +26,7 @@ Siga os passos abaixo para rodar o projeto localmente:
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd calculadora-react
+    cd trilha-react-desafio01-calculadora
     ```
 3. Instale as dependências:
     ```bash
